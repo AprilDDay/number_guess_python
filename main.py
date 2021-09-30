@@ -44,3 +44,5 @@ def start_game():
             print("That's cool! Be on your way!")
 if __name__ == '__main__':
     start_game()
+
+#https://hackr.io/blog/python-projects
